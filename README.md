@@ -9,7 +9,7 @@
 - 🌱 I’m learning **Python**, **Machine Learning**, and **Data Structures**
 - 🔭 I’m working on small AI projects and beginner-level contributions
 - 💬 Ask me about **Git, Python, or AI basics**
-- 📫 How to reach me: [your-email@example.com] | [LinkedIn](https://in.linkedin.com/in/sreyash-baishkhiyar-40b33730a)
+- 📫 How to reach me: [sreyashbaishkhiyar@gmail.com] | [LinkedIn](https://in.linkedin.com/in/sreyash-baishkhiyar-40b33730a)
 
 ---
 
