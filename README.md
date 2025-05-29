@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Sreyash Baishkhiyar]
+# 👋 Hello, I'm Sreyash Baishkhiyar
 
 ### 💻 AIML Student | Python Learner | Aspiring Data Scientist
 
